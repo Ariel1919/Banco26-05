@@ -13,7 +13,7 @@
 
 * Francielly Ariel Brasil (Revisora e ajustes finais)
 * Marinalva Dos Santos
-* Eugenia Guedes
+* Eugenia R. de C. V. de Melo Guedes
 * Felipe Cartaxo
 * Luana Jéssica Ferreira da Silva
 
